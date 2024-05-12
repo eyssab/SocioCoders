@@ -18,7 +18,7 @@
 ## Run Server
 - Command: python3 manage.py runserver localhost:8000
 
-## Frontend Setup
+# Frontend Setup
 NOTE: Setup Backend First
 1. Make sure you have Node.js installed.
 2. Run `npm install`.
