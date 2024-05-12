@@ -27,3 +27,6 @@ NOTE: Setup Backend First
 # Create .env File
 - Create '.env' file in project root folder
 - Populate with these keys: GOOGLE_OAUTH_CLIENT_ID, GOOGLE_OAUTH_CLIENT_SECRET, DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT, OPENAI_API_KEY, VITE_GOOGLE_CLIENT_ID
+
+# 520 Project Feature Demo Video + Contribution File
+- View both video and contribution file in the root file
