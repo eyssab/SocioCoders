@@ -1,0 +1,34 @@
+# Logs
+/scf/logs
+/scf/.env
+/scf/*.log
+/scf/npm-debug.log*
+/scf/yarn-debug.log*
+/scf/yarn-error.log*
+/scf/pnpm-debug.log*
+/scf/lerna-debug.log*
+/scf/package-lock.json
+/scf/node_modules
+/scf/dist
+/scf/dist-ssr
+/scf/*.local
+
+# Editor directories and files
+/scf/.vscode/*
+!/scf/.vscode/extensions.json
+/scf/.idea
+/scf/.DS_Store
+/scf/*.suo
+/scf/*.ntvs*
+/scf/*.njsproj
+/scf/*.sln
+/scf/*.sw?
+
+# Janan's personal env stuff
+/scb/newenv
+/scb/db.sqlite3
+/scb/.DS_Store
+/scb/api/__pycache__
+
+# Eyssa gitignore
+/scb/api/.env
